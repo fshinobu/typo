@@ -1,0 +1,16 @@
+Uploading SSH public key /home/saasbook/.ssh/id_rsa.pub... done
+http://shrouded-savannah-8577.herokuapp.com/
+
+
+Congratulations!
+
+You have successfully signed up
+
+Login: admin
+
+Password: ONqG5Ac
+
+Please write down a copy of this login and password as you will need it later. Normally we would email it to you as fshinobu@yahoo.com.br, however email services are likely not connected.
+
+Proceed to admin
+
